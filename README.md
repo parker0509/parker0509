@@ -6,4 +6,4 @@
 ## 💻 ...
 <a href = "https://github.com/parker0509"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 </a> <a href = "https://velog.io/@parker0509/posts"> <img alt="velog" src ="https://img.shields.io/badge/velog-white.svg?&style=for-the-badge"/></a>
-</a> <a href = "naver.com"> <img alt="naver" src ="https://img.shields.io/badge/Naver-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/></a>
+</a> <a href = "naver.com"> <img alt="Naver" src ="https://img.shields.io/badge/Naver-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/></a>
