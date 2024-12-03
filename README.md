@@ -9,7 +9,7 @@
     <img alt="SpringBoot" src="https://img.shields.io/badge/Spring-F7DF1E.svg?&style=for-the-badge&logo=SpringBoot&logoColor=black" />
     <img alt="MySql" src="https://img.shields.io/badge/MySQL-3776AB.svg?&style=for-the-badge&logo=MySQL&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/Java-02569B.svg?&style=for-the-badge&logo=Java&logoColor=white" />
-    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=black" />
+
 </p>
 
 ## 💬 Connect With Me
