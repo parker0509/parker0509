@@ -45,5 +45,5 @@
 
 
 <p align="center">
-    Thank you!
+    🐱‍🐉 Thank you!
 </p>
