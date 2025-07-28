@@ -2,7 +2,6 @@
 
 강력하고 확장 가능한 애플리케이션을 구축하는 데 열정을 가진 개발자, 어려운 문제 해결을 즐기며, 새로운 기술을 끊임없이 배우고 있습니다.
 
----
 
 ### 💻 Stack
 제가 주로 사용하는 기술 스택입니다:
@@ -15,14 +14,14 @@
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
----
+
 
 ### 🌱Study
 
 * [ 마이크로서비스 아키텍처 탐구, AWS에 대해 더 배우기, 자료구조 및 알고리즘 심화 학습]
 * [ React/Vue를 통한 프론트엔드 기술 향상, 오픈소스 프로젝트 기여]
 
----
+
 
 
 ### 💬 Contact
@@ -43,7 +42,7 @@
     </a>
 </p>
 
----
+
 
 <p align="center">
     Thank you!
